@@ -7,7 +7,7 @@
 def main():
     import math
 
-    rad = 15
+    rad = 6
     circ = math.pi * 2 * rad
     area = math.pi * rad**2
     print(circ, area)
